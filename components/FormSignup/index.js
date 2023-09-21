@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import React, { useState } from 'react';
 import Button from '../Button';
-import TextInput from '../TextInput';
+import TextInput from '../Textinput';
 import { useRouter } from 'next/router';
 import { postData, putData } from '../../utils/fetchData';
 import { toast } from 'react-toastify';

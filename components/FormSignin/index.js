@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Button from '../Button';
-import TextInput from '../TextInput';
+import TextInput from '../Textinput';
 import { useRouter } from 'next/router';
 import { postData } from '../../utils/fetchData';
 import Cookies from 'js-cookie';
